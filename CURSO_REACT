@@ -1,0 +1,13 @@
+********** CURSO REACT DESDE CERO **********
+** SECCION 1 - INTRODUCCION
+   - QUE ES REACT?
+     - Es una libreria de JavaScript desarrollada y mantenida por facebook, hecha para el desarrollo SPA de gra escala, tales como el propio facebook, Instagram, Paypal, 
+       Netlix y muchas otras aplicaciones de gran calibre.
+     - React, es unicamente FrontEnd, por lo que en React no hacemos bases de datos ni logica de servidores, simplemente creamos la parte interactiva de nuestr aplicacion, 
+       lo que el usuario ve y en lo que él trabaja.
+       
+     - Por lo que es de gran importancia nuestro trabajo, debido a que debemos buscar siempre la mejor experiencia para nuestros usuarios.
+     
+
+     
+     
