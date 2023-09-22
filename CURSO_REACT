@@ -23,7 +23,16 @@
      
      - Sin embargo REACT no utiliza al 100% JavaScript, utiliza un lenguaje llamado JSX (ENLACE: https://dev.to/sapardo/jsx-el-lenguaje-de-react-con-ejemplos-4hc2).
      
+   * JSX:
+     - JSX es una mezcla entre JavaScript y XML lo cual nos permite escribir XML en JS y por ende, utilizar HTML y crear nuestras propias etiquetas las cuales llamaremos
+       COMPONENTES, pero esto no es inventar nuestro propio HTML, si no es usat HTML.
+       
+     - Para poder utilizar JSX no puedes simplemente crear archivos .jsx, de hecho en REACT da igual si usamos .js o .jsx, para REACT poder usar esto,
+       necesita otra libreria llamada Babel.
      
+     - Create-react-app es un software que autogenera una base para trabajar REACT, igualmente configura este tipo de librerias y de usarlo, nosotros no vamos a preocuparnos
+       por esto, pero vamos a empezar utilizando un CDN por lo que configuraremos manualmente al principio nuestro proyecto para que entienda JSX y REACT.
+       
 
      
      
