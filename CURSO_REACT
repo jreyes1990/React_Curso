@@ -1,12 +1,28 @@
 ********** CURSO REACT DESDE CERO **********
 ** SECCION 1 - INTRODUCCION
-   - QUE ES REACT?
+   * QUE ES REACT?
      - Es una libreria de JavaScript desarrollada y mantenida por facebook, hecha para el desarrollo SPA de gra escala, tales como el propio facebook, Instagram, Paypal, 
        Netlix y muchas otras aplicaciones de gran calibre.
      - React, es unicamente FrontEnd, por lo que en React no hacemos bases de datos ni logica de servidores, simplemente creamos la parte interactiva de nuestr aplicacion, 
        lo que el usuario ve y en lo que él trabaja.
        
      - Por lo que es de gran importancia nuestro trabajo, debido a que debemos buscar siempre la mejor experiencia para nuestros usuarios.
+     
+   * SPA - SINGLE PAGE APPLICATION:
+     - Las Single Page Application son aplicaciones web que caben en una única página la cual tiene de aparentar ser una única página que cambia, le brinda al usuario una mejor
+       experiencia al hacer sentir al usuario que más allá de un sitio web, está navegando en una aplicación de escritorio, la cual no recarga, no se satura y tiene pantallas
+       de carga amigables.
+       
+     - Desde luego, este tipo de aplicaciones se dedican a interactuar con 2 tipos de servicios principalmente, servicios REST y servicios Serveless, las cuales descentralizan
+       completamente la lógica de la aplicación de la interfaz gráfica y gracias a REACT, vamos a poder conectarnos nuevamente sin necesidad de tener idea en que está escrito
+       nuestro servidor.
+       
+   * JAVASCRIPT O TYPESCRIPT?:
+     - De manera nativa y la principal deferencia que tiene REACT a diferencia de Angular es que REACT utilzar JavaScript por defecto y adicionalmente podemos utilizar
+       TypeScript en el momento en que nosotros lo decidamos.
+     
+     - Sin embargo REACT no utiliza al 100% JavaScript, utiliza un lenguaje llamado JSX (ENLACE: https://dev.to/sapardo/jsx-el-lenguaje-de-react-con-ejemplos-4hc2).
+     
      
 
      
