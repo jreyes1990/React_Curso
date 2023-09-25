@@ -1,4 +1,6 @@
 ********** CURSO REACT DESDE CERO **********
+
+/***************************************************************************************************************************************************************************************/
 ** SECCION 1 - INTRODUCCION
    * QUE ES REACT?
      - Es una libreria de JavaScript desarrollada y mantenida por facebook, hecha para el desarrollo SPA de gra escala, tales como el propio facebook, Instagram, Paypal, 
@@ -34,5 +36,7 @@
        por esto, pero vamos a empezar utilizando un CDN por lo que configuraremos manualmente al principio nuestro proyecto para que entienda JSX y REACT.
        
 
-     
+/***************************************************************************************************************************************************************************************/
+** SECCION 2 - NIVELACION: JAVASCRIPT PARA REACT
+   
      
